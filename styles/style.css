@@ -19,7 +19,7 @@
 }
 
 .header__logo {
-    
+
 }
 
 .header__lang-place {
@@ -40,3 +40,41 @@
 .header__lang-link_active {
     text-decoration-line: underline;
 }
+
+                        /* основной контент */
+
+/* секция lead */
+
+.lead {
+    display: flex;
+    flex-direction: column;
+    margin: 56px auto 0 auto;
+    align-items: center;
+    text-align: center;
+    max-width: 984px;
+}
+
+.lead__title {
+    max-width: 720px;
+    font-size: 96px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.lead__subtitle {
+    font-weight: 400;
+    font-size: 30px;
+    max-width: 640px;
+    margin: 0;
+}
+
+.lead__image {
+    max-width: 100%;
+}
+
+.lead__caption {
+    margin: 0;
+    align-self: flex-start;
+}
+
+/* секция */

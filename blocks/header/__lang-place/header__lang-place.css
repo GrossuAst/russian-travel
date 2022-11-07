@@ -1,0 +1,10 @@
+.header__lang-place {
+    display: flex;
+    gap: 18px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    padding-top: 18px;
+    padding-bottom: 6px;
+}

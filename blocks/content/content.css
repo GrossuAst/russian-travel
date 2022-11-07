@@ -1,0 +1,11 @@
+.content {
+    max-width: 1184px;
+    margin: 0 auto;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 179px) {
+    .content {
+        max-width: 1024px;
+    }
+}

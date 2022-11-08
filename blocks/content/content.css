@@ -4,8 +4,8 @@
     color: #FFFFFF;
 }
 
-/* @media screen and (max-width: 179px) {
+@media screen and (max-width: 1279px) {
     .content {
         max-width: 1024px;
     }
-} */
+}

@@ -5,3 +5,10 @@
     font-size: 16px;
     line-height: 163%;
 }
+
+/* @media screen and (max-width:1023px) {
+    .intro__text {
+        display: inline-block;
+        max-width: 720px;
+    }
+} */

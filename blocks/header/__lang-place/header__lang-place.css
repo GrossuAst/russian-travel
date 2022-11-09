@@ -8,3 +8,10 @@
     padding-top: 18px;
     padding-bottom: 6px;
 }
+
+@media screen and (max-width: 767px) {
+    .header__lang-place {
+        padding-top: 14px;
+        padding-bottom: 8px;
+    }
+}

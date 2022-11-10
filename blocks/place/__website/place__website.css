@@ -6,7 +6,6 @@
 
 @media screen and (max-width: 767px) {
     .place__website {
-        grid-row: 2/3;
-        align-self: flex-end;
+        grid-area: grid-website;
     }
 }

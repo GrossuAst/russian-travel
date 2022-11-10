@@ -13,5 +13,6 @@
 @media screen and (max-width: 767px) {
     .place__text {
         row-gap: 25px;
+        grid-area: grid-text;
     }
 }

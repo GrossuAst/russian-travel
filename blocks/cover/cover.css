@@ -16,9 +16,16 @@
         max-width: 768px;
         max-height: 480px;
         width: 100%;
-        /* min-height: 480px; */
         display: flex;
         align-items: flex-start;
     }
 }
 
+@media screen and (max-width: 767px) {
+    .cover {
+        max-width: 320px;
+        width: 100%;
+        max-height: 200px;
+        margin: 66px auto 0 auto;
+    }
+}

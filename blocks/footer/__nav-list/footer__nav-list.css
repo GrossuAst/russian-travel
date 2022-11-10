@@ -6,3 +6,14 @@
     list-style: none;
     gap: 18px;
 }
+
+@media screen and (max-width: 767px) {
+    .footer__nav-list {
+        flex-direction: column;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        gap: 18px;
+    }
+}

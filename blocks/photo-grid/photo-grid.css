@@ -26,3 +26,14 @@
         margin: 88px auto 0 auto;
     }
 }
+
+@media screen and (max-width:767px) {
+    .photo-grid {
+        max-width: 288px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(12, 1fr);
+        gap: 12px;
+        margin: 64px auto 0 auto;
+    }
+}

@@ -24,7 +24,6 @@
 
 @media screen and (max-width: 767px) {
     .place {
-        -ms-diplay: grid;
         display: grid;
         grid-template-areas: 
         "grid-title"

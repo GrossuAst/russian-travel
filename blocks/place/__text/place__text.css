@@ -14,5 +14,6 @@
     .place__text {
         row-gap: 25px;
         grid-area: grid-text;
+        margin-left: 16px;
     }
 }

@@ -16,14 +16,12 @@
     .places {
         gap: 73px;
         max-width: 720px;
-        margin: 88px auto 0 auto;
+        margin-top: 88px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .places {
-        display: flex;
-        flex-direction: column;
         margin-top: 64px;
         gap: 50px;
     }
